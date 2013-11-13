@@ -6,7 +6,7 @@ A minimal implementation of tuple with named fields.
 Motivation
 ----------
 
-I think the implementation of `namedtuple` (contained in `collections` of The Python Standard Library) is a little bit complicated, so there is a minimal (maybe trivial) alternative.
+I think the implementation of `namedtuple` (included in `collections` in The Python Standard Library) is a little bit complicated, so there is a minimal (maybe trivial) alternative.
 
 Documentation
 -------------

@@ -10,8 +10,8 @@ class namedtuple2(tuple):
     instance-level or class-level attributes of `namedtuple2`.
 
         >>> names = ('x', 'y')
-        >>> data = (1, 2)
-        >>> p = namedtuple2(names, *data)
+        >>> values = (1, 2)
+        >>> p = namedtuple2(names, *values)
         >>> p
         namedtuple2(x=1, y=2)
         >>> p.x, p.y
